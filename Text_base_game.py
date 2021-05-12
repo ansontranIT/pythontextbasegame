@@ -1,8 +1,4 @@
-#COSC1519 Introduction to Programming
-#Student name: Anson Tran
-#Student number: 3906959
-#Practical group: 
-# Monday 10:30am
+
 #Coded in Python 3.9.4 on Microsoft Visual Studio
 ## Part 1 - Game Introduction
 print("Oi, sellsword. Name. What's yer name?")
